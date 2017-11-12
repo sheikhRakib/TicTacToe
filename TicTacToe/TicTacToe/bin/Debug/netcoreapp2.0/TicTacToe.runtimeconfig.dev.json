@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/Nidha/.dotnet/store/|arch|/|tfm|",
+      "/Users/Nidha/.nuget/packages"
+    ]
+  }
+}

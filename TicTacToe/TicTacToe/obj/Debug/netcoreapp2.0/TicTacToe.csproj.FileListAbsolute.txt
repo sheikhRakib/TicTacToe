@@ -1,0 +1,11 @@
+/Users/Nidha/Documents/cSharp/TicTacToe/TicTacToe/bin/Debug/netcoreapp2.0/TicTacToe.deps.json
+/Users/Nidha/Documents/cSharp/TicTacToe/TicTacToe/bin/Debug/netcoreapp2.0/TicTacToe.runtimeconfig.json
+/Users/Nidha/Documents/cSharp/TicTacToe/TicTacToe/bin/Debug/netcoreapp2.0/TicTacToe.runtimeconfig.dev.json
+/Users/Nidha/Documents/cSharp/TicTacToe/TicTacToe/bin/Debug/netcoreapp2.0/TicTacToe.dll
+/Users/Nidha/Documents/cSharp/TicTacToe/TicTacToe/bin/Debug/netcoreapp2.0/TicTacToe.pdb
+/Users/Nidha/Documents/cSharp/TicTacToe/TicTacToe/obj/Debug/netcoreapp2.0/TicTacToe.csprojResolveAssemblyReference.cache
+/Users/Nidha/Documents/cSharp/TicTacToe/TicTacToe/obj/Debug/netcoreapp2.0/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/Nidha/Documents/cSharp/TicTacToe/TicTacToe/obj/Debug/netcoreapp2.0/TicTacToe.AssemblyInfoInputs.cache
+/Users/Nidha/Documents/cSharp/TicTacToe/TicTacToe/obj/Debug/netcoreapp2.0/TicTacToe.AssemblyInfo.cs
+/Users/Nidha/Documents/cSharp/TicTacToe/TicTacToe/obj/Debug/netcoreapp2.0/TicTacToe.dll
+/Users/Nidha/Documents/cSharp/TicTacToe/TicTacToe/obj/Debug/netcoreapp2.0/TicTacToe.pdb
