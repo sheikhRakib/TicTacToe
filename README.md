@@ -1,2 +1,2 @@
 # TicTacToe
-Tic Tac Toe game with AI
+Tic Tac Toe game(Console) with AI
